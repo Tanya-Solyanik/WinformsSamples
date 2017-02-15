@@ -1,0 +1,6 @@
+*.obj
+*.exe
+*.user
+*/obj/*
+*/bin/*
+*/publish/*
