@@ -1,6 +1,15 @@
 *.obj
 *.exe
+*.suo
+*.dll
+*/TempPE/*
+*/Release/*
+*/Debug/*
+ProjectSettings.json
+slnx.sqlite
+VSWorkspaceState.json
 *.user
 */obj/*
 */bin/*
 */publish/*
+*/.vs/*
